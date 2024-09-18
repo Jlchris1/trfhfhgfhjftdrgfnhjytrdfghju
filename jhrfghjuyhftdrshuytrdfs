@@ -207,7 +207,7 @@ toggle.TextSize = 30.000
 
 -- Scripts:
 
-local function ACBPEVY_fake_script() -- coolpicktool.Script 
+local function OBRBHWY_fake_script() -- coolpicktool.Script 
 	local script = Instance.new('Script', coolpicktool)
 
 	function Click(mouse)
@@ -246,8 +246,8 @@ local function ACBPEVY_fake_script() -- coolpicktool.Script
 	
 	script.Parent.MouseButton1Down:connect(Click)
 end
-coroutine.wrap(ACBPEVY_fake_script)()
-local function TDHV_fake_script() -- dmgsoundspammer.Script 
+coroutine.wrap(OBRBHWY_fake_script)()
+local function KPEXEN_fake_script() -- dmgsoundspammer.Script 
 	local script = Instance.new('Script', dmgsoundspammer)
 
 	function Click(mouse)
@@ -264,8 +264,8 @@ local function TDHV_fake_script() -- dmgsoundspammer.Script
 	
 	script.Parent.MouseButton1Down:connect(Click)
 end
-coroutine.wrap(TDHV_fake_script)()
-local function BUGH_fake_script() -- floatpt2.Script 
+coroutine.wrap(KPEXEN_fake_script)()
+local function PTILOH_fake_script() -- floatpt2.Script 
 	local script = Instance.new('Script', floatpt2)
 
 	function Click(mouse)
@@ -428,8 +428,8 @@ local function BUGH_fake_script() -- floatpt2.Script
 	
 	script.Parent.MouseButton1Down:connect(Click)
 end
-coroutine.wrap(BUGH_fake_script)()
-local function HZAEPZN_fake_script() -- floatpt3.F-real7 
+coroutine.wrap(PTILOH_fake_script)()
+local function BNQV_fake_script() -- floatpt3.F-real7 
 	local script = Instance.new('Script', floatpt3)
 
 	function Click(mouse)
@@ -592,8 +592,8 @@ local function HZAEPZN_fake_script() -- floatpt3.F-real7
 	
 	script.Parent.MouseButton1Down:connect(Click)
 end
-coroutine.wrap(HZAEPZN_fake_script)()
-local function LTUZFO_fake_script() -- floatpt3.F-real5 
+coroutine.wrap(BNQV_fake_script)()
+local function YJVJW_fake_script() -- floatpt3.F-real5 
 	local script = Instance.new('Script', floatpt3)
 
 	function Click(mouse)
@@ -756,8 +756,8 @@ local function LTUZFO_fake_script() -- floatpt3.F-real5
 	
 	script.Parent.MouseButton1Down:connect(Click)
 end
-coroutine.wrap(LTUZFO_fake_script)()
-local function QXQBJH_fake_script() -- floatpt3.F-real6 
+coroutine.wrap(YJVJW_fake_script)()
+local function WVSKRBY_fake_script() -- floatpt3.F-real6 
 	local script = Instance.new('Script', floatpt3)
 
 	function Click(mouse)
@@ -920,8 +920,8 @@ local function QXQBJH_fake_script() -- floatpt3.F-real6
 	
 	script.Parent.MouseButton1Down:connect(Click)
 end
-coroutine.wrap(QXQBJH_fake_script)()
-local function QICF_fake_script() -- floatpt3.F-real4 
+coroutine.wrap(WVSKRBY_fake_script)()
+local function ERRHDRQ_fake_script() -- floatpt3.F-real4 
 	local script = Instance.new('Script', floatpt3)
 
 	function Click(mouse)
@@ -1084,8 +1084,8 @@ local function QICF_fake_script() -- floatpt3.F-real4
 	
 	script.Parent.MouseButton1Down:connect(Click)
 end
-coroutine.wrap(QICF_fake_script)()
-local function NTVSHJ_fake_script() -- floatpt3.F-real1 
+coroutine.wrap(ERRHDRQ_fake_script)()
+local function FPCHDPG_fake_script() -- floatpt3.F-real1 
 	local script = Instance.new('Script', floatpt3)
 
 	function Click(mouse)
@@ -1248,8 +1248,8 @@ local function NTVSHJ_fake_script() -- floatpt3.F-real1
 	
 	script.Parent.MouseButton1Down:connect(Click)
 end
-coroutine.wrap(NTVSHJ_fake_script)()
-local function LNAZ_fake_script() -- floatpt3.F-real2 
+coroutine.wrap(FPCHDPG_fake_script)()
+local function SNIJZKU_fake_script() -- floatpt3.F-real2 
 	local script = Instance.new('Script', floatpt3)
 
 	function Click(mouse)
@@ -1412,8 +1412,8 @@ local function LNAZ_fake_script() -- floatpt3.F-real2
 	
 	script.Parent.MouseButton1Down:connect(Click)
 end
-coroutine.wrap(LNAZ_fake_script)()
-local function XRYQXCX_fake_script() -- floatpt3.F-real3 
+coroutine.wrap(SNIJZKU_fake_script)()
+local function GOEIQO_fake_script() -- floatpt3.F-real3 
 	local script = Instance.new('Script', floatpt3)
 
 	function Click(mouse)
@@ -1576,21 +1576,21 @@ local function XRYQXCX_fake_script() -- floatpt3.F-real3
 	
 	script.Parent.MouseButton1Down:connect(Click)
 end
-coroutine.wrap(XRYQXCX_fake_script)()
-local function TZCMZ_fake_script() -- chrisgui.Script 
+coroutine.wrap(GOEIQO_fake_script)()
+local function VSBHGC_fake_script() -- chrisgui.Script 
 	local script = Instance.new('Script', chrisgui)
 
 	function Click(mouse)
 	
-		loadstring(game:HttpGet(('https://pastebin.com/raw/fSxmgk0n'),true))()
+		loadstring(game:HttpGet(('https://raw.githubusercontent.com/Jlchris1/hftdfjfhdghjfhd/main/chris%20gui'),true))()
 	
 	end
 	
 	
 	script.Parent.MouseButton1Down:connect(Click)
 end
-coroutine.wrap(TZCMZ_fake_script)()
-local function PDQPPRJ_fake_script() -- instantkillv3.Script 
+coroutine.wrap(VSBHGC_fake_script)()
+local function BTKZMFI_fake_script() -- instantkillv3.Script 
 	local script = Instance.new('Script', instantkillv3)
 
 	function Click(mouse)
@@ -1839,8 +1839,8 @@ local function PDQPPRJ_fake_script() -- instantkillv3.Script
 	
 	script.Parent.MouseButton1Down:connect(Click)
 end
-coroutine.wrap(PDQPPRJ_fake_script)()
-local function EBGU_fake_script() -- instantkillv3.Script 
+coroutine.wrap(BTKZMFI_fake_script)()
+local function MEUSUFX_fake_script() -- instantkillv3.Script 
 	local script = Instance.new('Script', instantkillv3)
 
 	function Click(mouse)
@@ -2089,8 +2089,8 @@ local function EBGU_fake_script() -- instantkillv3.Script
 	
 	script.Parent.MouseButton1Down:connect(Click)
 end
-coroutine.wrap(EBGU_fake_script)()
-local function ZEDDIV_fake_script() -- instantkillv3.Script 
+coroutine.wrap(MEUSUFX_fake_script)()
+local function TPQLO_fake_script() -- instantkillv3.Script 
 	local script = Instance.new('Script', instantkillv3)
 
 	function Click(mouse)
@@ -2339,8 +2339,8 @@ local function ZEDDIV_fake_script() -- instantkillv3.Script
 	
 	script.Parent.MouseButton1Down:connect(Click)
 end
-coroutine.wrap(ZEDDIV_fake_script)()
-local function SVYL_fake_script() -- instantkillv3.Script 
+coroutine.wrap(TPQLO_fake_script)()
+local function GJCBBG_fake_script() -- instantkillv3.Script 
 	local script = Instance.new('Script', instantkillv3)
 
 	function Click(mouse)
@@ -2589,8 +2589,8 @@ local function SVYL_fake_script() -- instantkillv3.Script
 	
 	script.Parent.MouseButton1Down:connect(Click)
 end
-coroutine.wrap(SVYL_fake_script)()
-local function PFHCL_fake_script() -- instantkillv3.Script 
+coroutine.wrap(GJCBBG_fake_script)()
+local function DRMGK_fake_script() -- instantkillv3.Script 
 	local script = Instance.new('Script', instantkillv3)
 
 	function Click(mouse)
@@ -2839,8 +2839,8 @@ local function PFHCL_fake_script() -- instantkillv3.Script
 	
 	script.Parent.MouseButton1Down:connect(Click)
 end
-coroutine.wrap(PFHCL_fake_script)()
-local function VQJI_fake_script() -- instantkillv3.Script 
+coroutine.wrap(DRMGK_fake_script)()
+local function LDNKFSL_fake_script() -- instantkillv3.Script 
 	local script = Instance.new('Script', instantkillv3)
 
 	function Click(mouse)
@@ -3089,8 +3089,8 @@ local function VQJI_fake_script() -- instantkillv3.Script
 	
 	script.Parent.MouseButton1Down:connect(Click)
 end
-coroutine.wrap(VQJI_fake_script)()
-local function FSWCMNA_fake_script() -- instantkillv3.Script 
+coroutine.wrap(LDNKFSL_fake_script)()
+local function DCYM_fake_script() -- instantkillv3.Script 
 	local script = Instance.new('Script', instantkillv3)
 
 	function Click(mouse)
@@ -3339,8 +3339,8 @@ local function FSWCMNA_fake_script() -- instantkillv3.Script
 	
 	script.Parent.MouseButton1Down:connect(Click)
 end
-coroutine.wrap(FSWCMNA_fake_script)()
-local function YUIGKC_fake_script() -- instantkillv3.Script 
+coroutine.wrap(DCYM_fake_script)()
+local function JJIVUVP_fake_script() -- instantkillv3.Script 
 	local script = Instance.new('Script', instantkillv3)
 
 	function Click(mouse)
@@ -3589,21 +3589,21 @@ local function YUIGKC_fake_script() -- instantkillv3.Script
 	
 	script.Parent.MouseButton1Down:connect(Click)
 end
-coroutine.wrap(YUIGKC_fake_script)()
-local function ALLP_fake_script() -- trappick.Script 
+coroutine.wrap(JJIVUVP_fake_script)()
+local function DPXDBMX_fake_script() -- trappick.Script 
 	local script = Instance.new('Script', trappick)
 
 	function Click(mouse)
 	
-		loadstring(game:HttpGet("https://pastebin.com/raw/E6sWDZgd"))()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/Jlchris1/hhthyjyfh/main/antis"))()
 	
 	end
 	
 	
 	script.Parent.MouseButton1Down:connect(Click)
 end
-coroutine.wrap(ALLP_fake_script)()
-local function EILCEE_fake_script() -- turnoffspamsound.Script 
+coroutine.wrap(DPXDBMX_fake_script)()
+local function WFCKZEL_fake_script() -- turnoffspamsound.Script 
 	local script = Instance.new('Script', turnoffspamsound)
 
 	function Click(mouse)
@@ -3616,8 +3616,8 @@ local function EILCEE_fake_script() -- turnoffspamsound.Script
 	
 	script.Parent.MouseButton1Down:connect(Click)
 end
-coroutine.wrap(EILCEE_fake_script)()
-local function FDQJMM_fake_script() -- v1.Script 
+coroutine.wrap(WFCKZEL_fake_script)()
+local function IRFBPO_fake_script() -- v1.Script 
 	local script = Instance.new('Script', v1)
 
 	function Click(mouse)
@@ -3738,8 +3738,8 @@ local function FDQJMM_fake_script() -- v1.Script
 	
 	script.Parent.MouseButton1Down:connect(Click)
 end
-coroutine.wrap(FDQJMM_fake_script)()
-local function BILRPK_fake_script() -- v3loop.Script 
+coroutine.wrap(IRFBPO_fake_script)()
+local function TFCRWX_fake_script() -- v3loop.Script 
 	local script = Instance.new('Script', v3loop)
 
 	function Click(mouse)
@@ -3988,8 +3988,8 @@ local function BILRPK_fake_script() -- v3loop.Script
 	
 	script.Parent.MouseButton1Down:connect(Click)
 end
-coroutine.wrap(BILRPK_fake_script)()
-local function OJKG_fake_script() -- instakillv3.torso 
+coroutine.wrap(TFCRWX_fake_script)()
+local function DAGJ_fake_script() -- instakillv3.torso 
 	local script = Instance.new('Script', instakillv3)
 
 	function Click(mouse)
@@ -4239,8 +4239,8 @@ local function OJKG_fake_script() -- instakillv3.torso
 	
 	script.Parent.MouseButton1Down:connect(Click)
 end
-coroutine.wrap(OJKG_fake_script)()
-local function HCBXXRV_fake_script() -- instakillv3.rightarm 
+coroutine.wrap(DAGJ_fake_script)()
+local function VSFC_fake_script() -- instakillv3.rightarm 
 	local script = Instance.new('Script', instakillv3)
 
 	function Click(mouse)
@@ -4490,8 +4490,8 @@ local function HCBXXRV_fake_script() -- instakillv3.rightarm
 	
 	script.Parent.MouseButton1Down:connect(Click)
 end
-coroutine.wrap(HCBXXRV_fake_script)()
-local function UMNJO_fake_script() -- instakillv3.leftarm 
+coroutine.wrap(VSFC_fake_script)()
+local function AQUA_fake_script() -- instakillv3.leftarm 
 	local script = Instance.new('Script', instakillv3)
 
 	function Click(mouse)
@@ -4741,8 +4741,8 @@ local function UMNJO_fake_script() -- instakillv3.leftarm
 	
 	script.Parent.MouseButton1Down:connect(Click)
 end
-coroutine.wrap(UMNJO_fake_script)()
-local function YGDNL_fake_script() -- instakillv3.right leg 
+coroutine.wrap(AQUA_fake_script)()
+local function KYOR_fake_script() -- instakillv3.right leg 
 	local script = Instance.new('Script', instakillv3)
 
 	function Click(mouse)
@@ -4992,8 +4992,8 @@ local function YGDNL_fake_script() -- instakillv3.right leg
 	
 	script.Parent.MouseButton1Down:connect(Click)
 end
-coroutine.wrap(YGDNL_fake_script)()
-local function AEEX_fake_script() -- instakillv3.head 
+coroutine.wrap(KYOR_fake_script)()
+local function XNMQ_fake_script() -- instakillv3.head 
 	local script = Instance.new('Script', instakillv3)
 
 	function Click(mouse)
@@ -5243,8 +5243,8 @@ local function AEEX_fake_script() -- instakillv3.head
 	
 	script.Parent.MouseButton1Down:connect(Click)
 end
-coroutine.wrap(AEEX_fake_script)()
-local function LAMNLAL_fake_script() -- instakillv3.leftleg 
+coroutine.wrap(XNMQ_fake_script)()
+local function QQWMH_fake_script() -- instakillv3.leftleg 
 	local script = Instance.new('Script', instakillv3)
 
 	function Click(mouse)
@@ -5494,34 +5494,34 @@ local function LAMNLAL_fake_script() -- instakillv3.leftleg
 	
 	script.Parent.MouseButton1Down:connect(Click)
 end
-coroutine.wrap(LAMNLAL_fake_script)()
-local function CFYE_fake_script() -- hyperloop1.script1 
+coroutine.wrap(QQWMH_fake_script)()
+local function TGSR_fake_script() -- hyperloop1.script2 
 	local script = Instance.new('Script', hyperloop1)
 
 	function Click(mouse)
 	
-		loadstring(game:HttpGet("https://pastebin.com/raw/7qZ5qCTg"))()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/Jlchris1/fshkj.htrhj/main/l%3Bkjhuyftsedfrhjyft"))()
 	
 	end
 	
 	
 	script.Parent.MouseButton1Down:connect(Click)
 end
-coroutine.wrap(CFYE_fake_script)()
-local function SFRC_fake_script() -- hyperloop1.script1 
+coroutine.wrap(TGSR_fake_script)()
+local function MDXV_fake_script() -- hyperloop1.script1 
 	local script = Instance.new('Script', hyperloop1)
 
 	function Click(mouse)
 	
-		loadstring(game:HttpGet("https://pastebin.com/raw/AbfXYy9q"))()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/Jlchris1/ukjytdrfhjfj/main/hhdrhfddhfjh"))()
 	
 	end
 	
 	
 	script.Parent.MouseButton1Down:connect(Click)
 end
-coroutine.wrap(SFRC_fake_script)()
-local function EWDCHOC_fake_script() -- severeanti.Script 
+coroutine.wrap(MDXV_fake_script)()
+local function FNMSLK_fake_script() -- severeanti.Script 
 	local script = Instance.new('Script', severeanti)
 
 	function Click(mouse)
@@ -5533,8 +5533,8 @@ local function EWDCHOC_fake_script() -- severeanti.Script
 	
 	script.Parent.MouseButton1Down:connect(Click)
 end
-coroutine.wrap(EWDCHOC_fake_script)()
-local function QVZSDJF_fake_script() -- toggle.LocalScript 
+coroutine.wrap(FNMSLK_fake_script)()
+local function VVVYOC_fake_script() -- toggle.LocalScript 
 	local script = Instance.new('LocalScript', toggle)
 
 	local back = script.Parent.Parent.mainframe
@@ -5564,8 +5564,8 @@ local function QVZSDJF_fake_script() -- toggle.LocalScript
 	
 	end)
 end
-coroutine.wrap(QVZSDJF_fake_script)()
-local function WEOK_fake_script() -- toggle.LocalScript 
+coroutine.wrap(VVVYOC_fake_script)()
+local function QCKAFK_fake_script() -- toggle.LocalScript 
 	local script = Instance.new('LocalScript', toggle)
 
 	local dragger = {}; 
@@ -5612,4 +5612,4 @@ local function WEOK_fake_script() -- toggle.LocalScript
 	script.Parent.Active = true
 	script.Parent.Draggable = true
 end
-coroutine.wrap(WEOK_fake_script)()
+coroutine.wrap(QCKAFK_fake_script)()
